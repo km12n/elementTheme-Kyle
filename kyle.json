@@ -28,10 +28,10 @@
     "links": "#6d8fb9",
     "links-external": "#6d8fb9",
     "username-variant1-color": "#8776ae",
-    "username-variant1-color": "#76AE87",
-    "username-variant1-color": "#6D8FB9",
-    "username-variant1-color": "#C2BF72",
-    "username-variant1-color": "#AE769D",
-    "username-variant1-color": "#AE8776"
+    "username-variant2-color": "#76AE87",
+    "username-variant3-color": "#6D8FB9",
+    "username-variant4-color": "#C2BF72",
+    "username-variant5-color": "#AE769D",
+    "username-variant6-color": "#AE8776"
   }
 }
