@@ -2,6 +2,7 @@
   "name": "Kyle",
   "is_dark": true,
   "colors": {
+    "theme-button-bg-color": "#8776AE",
     "accent-color": "#8776AE",
     "primary-color": "#6D8FB9",
     "warning-color": "#D9766B",
