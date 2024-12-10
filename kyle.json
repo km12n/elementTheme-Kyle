@@ -25,13 +25,14 @@
     "eventbubble-reply-color": "#8E8E93",
     "codeblock-background-color": "#797171",
     "inlinecode-background-color": "#797171",
-    "links": "#6d8fb9",
-    "links-external": "#6d8fb9",
+    "links": "#C2BF72",
+    "links-external": "#C2BF72",
     "username-variant1-color": "#8776ae",
     "username-variant2-color": "#76AE87",
     "username-variant3-color": "#6D8FB9",
     "username-variant4-color": "#C2BF72",
     "username-variant5-color": "#AE769D",
-    "username-variant6-color": "#AE8776"
+    "username-variant6-color": "#AE8776",
+    "event-timestamp-color": "#FFFFFF"
   }
 }
