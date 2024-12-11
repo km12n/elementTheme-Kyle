@@ -19,8 +19,8 @@
     "timeline-text-secondary-color": "#FFFFFF",
     "timeline-highlights-color": "#383D41",
     "reaction-row-button-selected-bg-color": "#659063",
-    "eventbubble-self-bg": "#8776AE",
-    "eventbubble-others-bg": "#659063",
+    "eventbubble-self-bg": "#5e5279",
+    "eventbubble-others-bg": "#466445",
     "eventbubble-bg-hover": "#383D41",
     "eventbubble-avatar-outline": "#F2F2F7",
     "eventbubble-reply-color": "#8E8E93"
