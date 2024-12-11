@@ -4,7 +4,7 @@
   "colors": {
     "font-family": "Arial",
     "accent-color": "#8776AE",
-    "primary-color": "#6D8FB9",
+    "primary-color": "#8776AE",
     "warning-color": "#D9766B",
     "sidebar-color": "#25292B",
     "roomlist-background-color": "#25292B",
@@ -23,17 +23,6 @@
     "eventbubble-others-bg": "#659063",
     "eventbubble-bg-hover": "#383D41",
     "eventbubble-avatar-outline": "#F2F2F7",
-    "eventbubble-reply-color": "#8E8E93",
-    "codeblock-background-color": "#797171",
-    "inlinecode-background-color": "#797171",
-    "links": "#C2BF72",
-    "links-external": "#C2BF72",
-    "username-variant1-color": "#8776ae",
-    "username-variant2-color": "#76AE87",
-    "username-variant3-color": "#6D8FB9",
-    "username-variant4-color": "#C2BF72",
-    "username-variant5-color": "#AE769D",
-    "username-variant6-color": "#AE8776",
-    "event-timestamp-color": "#FFFFFF"
+    "eventbubble-reply-color": "#8E8E93"
   }
 }
