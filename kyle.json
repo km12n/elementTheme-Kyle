@@ -2,7 +2,6 @@
   "name": "Kyle",
   "is_dark": true,
   "colors": {
-    "font-family": "Open Sans",
     "accent-color": "#8776AE",
     "primary-color": "#C2BF72",
     "warning-color": "#D9766B",
@@ -19,8 +18,8 @@
     "timeline-text-secondary-color": "#FFFFFF",
     "timeline-highlights-color": "#383D41",
     "reaction-row-button-selected-bg-color": "#659063",
-    "eventbubble-self-bg": "#5e5279",
-    "eventbubble-others-bg": "#466445",
+    "eventbubble-self-bg": "#796a9c",
+    "eventbubble-others-bg": "#282334",
     "eventbubble-bg-hover": "#383D41",
     "eventbubble-avatar-outline": "#F2F2F7",
     "eventbubble-reply-color": "#8E8E93"
