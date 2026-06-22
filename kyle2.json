@@ -1,0 +1,27 @@
+{
+  "name": "Kyle",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#8776AE",
+    "primary-color": "#C2BF72",
+    "warning-color": "#D9766B",
+    "sidebar-color": "#25292B",
+    "roomlist-background-color": "#282A36",
+    "roomlist-text-color": "#efefef",
+    "roomlist-text-secondary-color": "#8e8e93",
+    "roomlist-highlights-color": "#212426",
+    "roomlist-separator-color": "#8776AE",
+    "timeline-background-color": "#282A36",
+    "timeline-text-color": "#EFEFEF",
+    "secondary-content": "#FFFFFF",
+    "tertiary-content": "#C2BF72",
+    "timeline-text-secondary-color": "#FFFFFF",
+    "timeline-highlights-color": "#383D41",
+    "reaction-row-button-selected-bg-color": "#659063",
+    "eventbubble-self-bg": "#796a9c",
+    "eventbubble-others-bg": "#636364",
+    "eventbubble-bg-hover": "#383D41",
+    "eventbubble-avatar-outline": "#F2F2F7",
+    "eventbubble-reply-color": "#8E8E93"
+  }
+}
